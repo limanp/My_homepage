@@ -1,0 +1,24 @@
+body{
+    background-image: url(coding.jpg);
+    background-size: 1600px 900px;
+}
+.anim{
+    text-align: center;
+}
+h1{
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(37, 37, 37, 0.8);
+   color:white;
+}
+.leftimg{
+    border-style: dotted;
+    float:left;
+    margin: 0px 7px 7px 0;
+}
+p{
+    background-image: url(water.gif);
+    background-size: 3000px ; 
+    background-color: rgba(0, 0, 0, 0.8);
+    color:white;
+}
